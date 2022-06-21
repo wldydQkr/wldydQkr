@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=Welcome!&39fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=Welcome!&fontColor=ffffff)
 
 <!--
 **wldydQkr/wldydQkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h2> My tech stack 🧑‍💻 </h2>
-(http://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
+![Swift](http://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=ffffff)
+![Git](http://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
