@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=Cylinder&color=auto&height=300&section=header&text=Welcome!&39fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=Welcome!&39fontSize=90)
 
 <!--
 **wldydQkr/wldydQkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h2> My tech stack 🧑‍💻 </h2>
+(http://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
