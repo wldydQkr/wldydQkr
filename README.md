@@ -25,3 +25,5 @@ Here are some ideas to get you started:
 ![C++](http://img.shields.io/badge/-C++-yellow?style=flat-square&logo=c++&logoColor=white)
 ![Java](http://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
 ![Android](http://img.shields.io/badge/-AOS-red?style=flat-square&logo=Android&logoColor=white)
+
+<h3> Thank you! 🧑‍💻 </h3>
