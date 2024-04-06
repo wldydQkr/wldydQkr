@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-<h2> My tech stack 🧑‍💻 </h2>
 
-![Swift](http://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=ffffff)
-![iOS](http://img.shields.io/badge/-iOS-black?style=flat-square&logo=ios&logoColor=white)
-![Git](http://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![PHP](http://img.shields.io/badge/-PHP-9cf?style=flat-square&logo=php&logoColor=white)
 ![C++](http://img.shields.io/badge/-C++-yellow?style=flat-square&logo=c++&logoColor=white)
 ![Java](http://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
+-->
+<h2> My tech stack 🧑‍💻 </h2>
+
+![iOS](http://img.shields.io/badge/-iOS-black?style=flat-square&logo=ios&logoColor=white)
+![Swift](http://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=ffffff)
+![Git](http://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
 ![Android](http://img.shields.io/badge/-AOS-red?style=flat-square&logo=Android&logoColor=white)
 
 <h3> Thank you! 🧑‍💻 </h3>
