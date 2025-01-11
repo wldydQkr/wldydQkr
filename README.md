@@ -24,7 +24,7 @@
 ### **iOS Development**
 ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white)
 ![UIKit Badge](https://img.shields.io/badge/UIKit-00599C?style=flat-square&logo=uikit&logoColor=white)
-![Combine Badge](https://img.shields.io/badge/Combine-FF6F00?style=flat-square)
+![Combine Badge](https://img.shields.io/badge/Combine-FF6F00?style=flat-square&logo=apple&logoColor=white)
 ![CoreData Badge](https://img.shields.io/badge/CoreData-2D3748?style=flat-square&logo=apple&logoColor=white)
 
 ### **Design Tools**
