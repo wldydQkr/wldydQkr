@@ -1,30 +1,38 @@
-### Hi there 👋
+# JIYONG PARK
 
-![header](https://capsule-render.vercel.app/api?type=Wave&color=FF4500&height=300&section=header&text=Welcome!&fontColor=ffffff)
+[![Gmail Badge](https://img.shields.io/badge/-wlqkr1010@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wlqkr1010@gmail.com)
+[![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/wldydQkr)
 
-<!--
-**wldydQkr/wldydQkr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Interest**
+- iOS Development
+- Exploring New Technologies
 
-![PHP](http://img.shields.io/badge/-PHP-9cf?style=flat-square&logo=php&logoColor=white)
-![C++](http://img.shields.io/badge/-C++-yellow?style=flat-square&logo=c++&logoColor=white)
-![Java](http://img.shields.io/badge/-Java-red?style=flat-square&logo=java&logoColor=white)
--->
-<h2> My tech stack 🧑‍💻 </h2>
+---
 
-![iOS](http://img.shields.io/badge/-iOS-black?style=flat-square&logo=ios&logoColor=white)
-![Swift](http://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=ffffff)
-![Git](http://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
-![Android](http://img.shields.io/badge/-AOS-red?style=flat-square&logo=Android&logoColor=white)
+## 🛠 Tech Stack 🛠
 
-<h3> Thank you! 🧑‍💻 </h3>
+### **Languages**
+![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### **iOS Development**
+![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white)
+![UIKit Badge](https://img.shields.io/badge/UIKit-00599C?style=flat-square&logo=uikit&logoColor=white)
+![Combine Badge](https://img.shields.io/badge/Combine-FF6F00?style=flat-square)
+![CoreData Badge](https://img.shields.io/badge/CoreData-2D3748?style=flat-square&logo=apple&logoColor=white)
+
+### **Design Tools**
+![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+### **Cloud Platforms**
+![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white)
+![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+---
+
