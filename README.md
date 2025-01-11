@@ -2,6 +2,7 @@
 
 [![Gmail Badge](https://img.shields.io/badge/-wlqkr1010@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:wlqkr1010@gmail.com)
 [![GitHub Badge](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/wldydQkr)
+[![Notion Badge](https://img.shields.io/badge/-Notion-000000?style=flat&logo=Notion&logoColor=white)](https://ancient-barge-833.notion.site/15f43f75856c807eae2ccc62968308ea?pvs=4)
 
 ---
 
