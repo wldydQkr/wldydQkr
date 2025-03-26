@@ -18,8 +18,10 @@
 
 ### **Languages**
 ![Swift Badge](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
-// ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-// ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+<!--
+![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+-->
 
 ### **iOS Development**
 ![SwiftUI Badge](https://img.shields.io/badge/SwiftUI-000000?style=flat-square&logo=swift&logoColor=white)
